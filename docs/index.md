@@ -1,12 +1,20 @@
-<!-- Chatbot documentation master file, created by
-sphinx-quickstart on Fri Jul 21 21:09:55 2023.
-You can adapt this file completely to your liking, but it should at least
-contain the root `toctree` directive. -->
+# Documentation Boilerplate
 
-# Welcome to Chatbot’s documentation!
+This is a boilerplate created by using docusaurus 2.0, this project will help anyone setup their clean code and then deploy the same on github pages. 
 
-# Indices and tables
+## Project Structure
 
-* [Index](genindex.md)
-* [Module Index](py-modindex.md)
-* [Search Page](search.md)
+The project has the following structure:
+
+- `src/`: This is where the source code of the application lives.
+    - `components/`: Component files.
+    - `css/`: CSS files
+    - `pages/`: New pages files
+- `static/`: All the static assets
+- `package.json`: Lists the project's dependencies. Managed by Yarn/NPM.
+
+## Setting Up for Development
+
+1. Install Dependencies: ``
+2. Install the project's dependencies: `yarn install` or `npm  install`
+3. Run the application: `yarn start` or `npm start`
