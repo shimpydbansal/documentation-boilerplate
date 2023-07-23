@@ -15,6 +15,5 @@ The project has the following structure:
 
 ## Setting Up for Development
 
-1. Install Dependencies: ``
-2. Install the project's dependencies: `yarn install` or `npm  install`
-3. Run the application: `yarn start` or `npm start`
+1. Install the project's dependencies: `yarn install` or `npm  install`
+2. Run the application: `yarn start` or `npm start`

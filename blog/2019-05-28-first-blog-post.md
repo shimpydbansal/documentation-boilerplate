@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
+  name: New Author
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/new-author
+  image_url: https://github.com/new-author.png
 tags: [hola, docusaurus]
 ---
 
