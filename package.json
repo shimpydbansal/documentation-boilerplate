@@ -1,11 +1,11 @@
 {
-  "name": "documentation-boilerplate",
+  "name": "docusaurus-boilerplate",
   "version": "0.0.1",
   "private": false,
-  "description": "Boilderplate created for documentation",
+  "description": "Boilderplate created for documentation through docusaurus",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/shimpydbansal/documentation-boilerplate",
+    "url": "https://github.com/shimpydbansal/docusaurus-boilerplate",
     "type": "git"
   },
   "author": "Shimpy Bansal",

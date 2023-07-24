@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentation Boilerplate',
+  title: 'Docusaurus Boilerplate',
   tagline: 'Documentation made easy',
   favicon: 'img/favicon.ico',
 
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shimpybansal', // Usually your GitHub org/user name.
-  projectName: 'documentation-boilerplate', // Usually your repo name.
+  projectName: 'docusaurus-boilerplate', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
